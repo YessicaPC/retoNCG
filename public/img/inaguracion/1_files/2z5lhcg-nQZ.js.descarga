@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["iIMt9"]); }
+
+__d("MessengerSurfaceType.bs",[],(function(a,b,c,d,e,f){"use strict";a="MESSENGER";b="WORK_QUIKCHAT";f.messenger=a;f.workQuickchat=b}),null);

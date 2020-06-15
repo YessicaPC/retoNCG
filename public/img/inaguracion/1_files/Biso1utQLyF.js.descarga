@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["QI5bX"]); }
+
+__d("MessengerSurfaceType.re",["MessengerSurfaceType.bs"],(function(a,b,c,d,e,f){a=b("MessengerSurfaceType.bs").messenger;f.messenger=a;c=b("MessengerSurfaceType.bs").workQuickchat;f.workQuickchat=c}),null);
